@@ -1,20 +1,32 @@
 import cv2, time
 
 #Create an object. Zero for external camera
-video = cv2.VideoCapture(-1)
-print(video)
+video = cv2.VideoCapture(0)
 
-#Create a frame object
-check, frame = video.read()
+a=0
 
-print(check)
-print(frame)
+while True:
+    a= a + 1
+    #Create a frame object
+    check, frame = video.read()
 
-#Show the frame
-cv2.imshow("Capturing", frame)
+    print(check)
+    print(frame.array)
 
-# PRess any key to out (msec)
-cv2.waitKey(0)
+    # Convert to gray scale
+    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
+    #Show the frame
+    cv2.imshow("Capturing", frame)
+
+    # For playing
+    key = cv2.waitKey(1)
+
+    if key == ord('q'):
+        break
+
+print(a)
 # Shutdown the camera
 video.release()
+
+cv2.destroyAllWindows
