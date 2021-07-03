@@ -133,7 +133,7 @@ while True:
             continue
 
         # Draw each contour only for visualisation purposes
-        # cv2.drawContours(frame, contours, i, (0, 0, 255), 2)
+        cv2.drawContours(frame, contours, i, (0, 0, 255), 2)
 
         # Find the orientation of each shape
         getOrientation(c, frame)
