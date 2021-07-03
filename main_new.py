@@ -129,7 +129,7 @@ while True:
         area = cv2.contourArea(c)
 
         # Ignore contours that are too small or too large
-        if area < 1000 or 40000 < area:
+        if area < 1000 or 10000 < area:
             continue
 
         # Draw each contour only for visualisation purposes
