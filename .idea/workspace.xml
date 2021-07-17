@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="35124107-9782-4282-b29c-8d78c680e1d9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/esc.py" beforeDir="false" afterPath="$PROJECT_DIR$/esc.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/esc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+            <state relative-caret-position="234">
+              <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
               <folding>
                 <element signature="e#470#540#0" expanded="true" />
               </folding>
@@ -219,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626548143198</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="esc edited 2">
+      <created>1626552029251</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626552029251</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -251,7 +259,8 @@
     <MESSAGE value="change the neglected area" />
     <MESSAGE value="esc added" />
     <MESSAGE value="esc edited" />
-    <option name="LAST_COMMIT_MESSAGE" value="esc edited" />
+    <MESSAGE value="esc edited 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="esc edited 2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Downloads/object_tracking/object_tracking/main.py">
@@ -300,8 +309,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/esc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+        <state relative-caret-position="234">
+          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
           <folding>
             <element signature="e#470#540#0" expanded="true" />
           </folding>
