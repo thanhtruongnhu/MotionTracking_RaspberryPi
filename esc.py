@@ -79,18 +79,18 @@ def control():
 
         if inp == "q":
             speed -= 100  # decrementing the speed like hell
-            print("speed = %d")
+            print("speed = %d", speed)
         elif inp == "e":
             speed += 100  # incrementing the speed like hell
-            print("speed = %d")
+            print("speed = %d", speed)
 
         elif inp == "d":
             speed += 10  # incrementing the speed
-            print("speed = %d")
+            print("speed = %d", speed)
 
         elif inp == "a":
             speed -= 10  # decrementing the speed
-            print("speed = %d")
+            print("speed = %d", speed)
 
         elif inp == "stop":
             stop()  # going for the stop function

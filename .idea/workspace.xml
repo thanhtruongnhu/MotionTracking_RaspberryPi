@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35124107-9782-4282-b29c-8d78c680e1d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/esc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/esc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="303">
+              <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
               <folding>
                 <element signature="e#470#540#0" expanded="true" />
               </folding>
@@ -70,6 +69,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Capture</find>
+      <find>raw_input</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -205,7 +205,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625340888767</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="esc added">
+      <created>1626546530763</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626546530764</updated>
+    </task>
+    <task id="LOCAL-00005" summary="esc edited">
+      <created>1626548143198</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626548143198</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -235,7 +249,9 @@
     <MESSAGE value="Fist commint" />
     <MESSAGE value="draw contour" />
     <MESSAGE value="change the neglected area" />
-    <option name="LAST_COMMIT_MESSAGE" value="change the neglected area" />
+    <MESSAGE value="esc added" />
+    <MESSAGE value="esc edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="esc edited" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Downloads/object_tracking/object_tracking/main.py">
@@ -284,8 +300,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/esc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="303">
+          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
           <folding>
             <element signature="e#470#540#0" expanded="true" />
           </folding>
